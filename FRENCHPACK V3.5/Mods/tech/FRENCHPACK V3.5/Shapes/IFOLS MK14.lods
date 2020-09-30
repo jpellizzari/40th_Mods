@@ -1,6 +1,0 @@
-model={
-	lods={
-		{"iflols_mk14.edm",3000.0};
-        {"ld_tec.edm",20000.0};
-	};
-}

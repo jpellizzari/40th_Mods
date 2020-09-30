@@ -1,8 +1,0 @@
-model = {
-	lods = {
-		{"Toyota_desert.edm",250.0},
-		{"Toyota_desert_LOD1.edm",5000.0},
-		{"Toyota_LOD2",30000.0},		
-	},
-		collision_shell = "Toyota_coll.edm";
-}

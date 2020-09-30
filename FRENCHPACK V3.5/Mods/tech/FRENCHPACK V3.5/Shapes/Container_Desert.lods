@@ -1,6 +1,0 @@
-model = {
-	lods = {
-		{"Container_Desert.edm",30000.0},
-	},
-		collision_shell = "Container_coll.edm";
-}

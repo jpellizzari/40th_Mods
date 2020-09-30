@@ -1,0 +1,6 @@
+model = {
+	lods = {
+		{"FARP_T.edm",30000.0},
+	},
+		collision_shell = "FARP_T_coll.edm";
+}

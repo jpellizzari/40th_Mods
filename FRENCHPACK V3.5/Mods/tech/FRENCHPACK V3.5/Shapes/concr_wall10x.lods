@@ -1,6 +1,0 @@
-model = {
-	lods = {
-		{"concr_wall10x.edm",30000.0},
-	},
-		collision_shell = "concr_wall10x_coll.edm";
-}

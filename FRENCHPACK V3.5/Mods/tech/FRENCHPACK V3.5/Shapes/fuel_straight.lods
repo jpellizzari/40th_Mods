@@ -1,6 +1,0 @@
-model = {
-	lods = {
-		{"fuel_straight.edm",10000.0},
-	},
-		collision_shell = "fuel_straight_coll.edm";
-}

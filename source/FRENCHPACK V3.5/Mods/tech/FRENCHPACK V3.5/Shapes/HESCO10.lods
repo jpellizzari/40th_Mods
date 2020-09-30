@@ -1,0 +1,7 @@
+model = {
+	lods = {
+		{"HESCO10.edm",100.0},	
+		{"HESCO10_lod1.edm",30000.0},
+	},
+		collision_shell = "HESCO10_coll.edm";
+}

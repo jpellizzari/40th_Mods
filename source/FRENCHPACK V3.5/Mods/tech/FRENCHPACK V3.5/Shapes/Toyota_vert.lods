@@ -1,0 +1,8 @@
+model = {
+	lods = {
+		{"Toyota_vert.edm",250.0},
+		{"Toyota_vert_LOD1.edm",5000.0},
+		{"Toyota_LOD2",30000.0},		
+	},
+		collision_shell = "Toyota_coll.edm";
+}

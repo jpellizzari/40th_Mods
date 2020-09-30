@@ -1,5 +1,0 @@
-wave = "Effects/Weapons/Automatic/LECLERC50"
-inner_radius = 50
-outer_radius = 2000
-pitch_random = 0.01
-release = 0.18

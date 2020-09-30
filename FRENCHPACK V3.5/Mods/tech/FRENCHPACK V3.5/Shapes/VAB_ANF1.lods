@@ -1,8 +1,0 @@
-model = {
-	lods = {
-		{"VAB_ANF1.edm",5000.0},
-		{"ld_tec.edm",20000.0},
-	},
-		collision_shell = "VAB_collision.edm";
-}
-

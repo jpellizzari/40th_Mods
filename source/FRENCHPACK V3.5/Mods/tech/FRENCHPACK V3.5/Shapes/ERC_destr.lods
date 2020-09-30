@@ -1,0 +1,8 @@
+model = {
+	lods = {
+		{"ERC_destr.edm",5000.0},
+		{"ld_tec.edm",20000.0},
+	},
+	
+}
+

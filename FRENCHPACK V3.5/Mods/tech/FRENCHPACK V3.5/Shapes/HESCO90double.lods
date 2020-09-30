@@ -1,7 +1,0 @@
-model = {
-	lods = {
-		{"HESCO90double.edm",100.0},
-		{"HESCO90double_lod1.edm",30000.0},		
-	},
-		collision_shell = "HESCO90double_coll.edm";
-}

@@ -1,9 +1,0 @@
-model = {
-	lods = {
-		{"Leclerc_XXI.edm",100},
-		{"Leclerc_XXI_LOD1.edm",250.0},
-		{"Leclerc_XXI_LOD2.edm",5000.0},
-		{"Leclerc_XXI_LOD3.edm", 30000.0},		
-	};
-		collision_shell = "Leclerc_XXI_Coll.edm";
-}

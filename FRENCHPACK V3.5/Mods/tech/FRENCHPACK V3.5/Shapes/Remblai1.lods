@@ -1,6 +1,0 @@
-model = {
-	lods = {
-		{"Remblai1.edm",15000.0},
-	},
-		collision_shell = "Remblai1_coll.edm";
-}

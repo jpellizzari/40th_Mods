@@ -1,0 +1,6 @@
+model = {
+	lods = {
+		{"concr_wall30x.edm",30000.0},
+	},
+		collision_shell = "concr_wall30x_coll.edm";
+}
