@@ -1,0 +1,8 @@
+model = {
+	lods = {
+		{"Tente H_desert.edm",30000.0},				
+	},
+		collision_shell = "Tente H_coll.edm";
+}
+
+

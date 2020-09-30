@@ -1,0 +1,7 @@
+model={
+	lods={
+		{"B-29.edm",4000.0};
+        {"ld_tec.edm",20000.0};
+	};
+	collision_shell="B-29-COLLISION.edm";
+}

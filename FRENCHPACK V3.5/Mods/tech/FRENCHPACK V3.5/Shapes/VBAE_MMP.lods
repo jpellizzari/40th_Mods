@@ -1,0 +1,9 @@
+model = {
+	lods = {
+		{"VBAE_MMP.edm",50.0},
+		{"VBAE_MMP_LOD1.edm",300.0},
+		{"VBAE_MMP_LOD2.edm",4000.0},
+		{"VBAE_LOD3.edm",20000.0},
+	},
+		collision_shell = "VBAE_Collision.edm";
+}

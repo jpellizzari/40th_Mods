@@ -1,0 +1,6 @@
+model = {
+	lods = {
+		{"fuel_side.edm",10000.0},
+	},
+		collision_shell = "fuel_side_coll.edm";
+}

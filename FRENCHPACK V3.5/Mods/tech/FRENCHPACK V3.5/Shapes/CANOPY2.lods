@@ -1,0 +1,7 @@
+model = {
+	lods = {
+		{"CANOPY2.edm",1000.0},
+		{"CANOPY2_LOD1.edm",30000.0},
+	},
+		collision_shell = "CANOPY2_coll.edm";
+}

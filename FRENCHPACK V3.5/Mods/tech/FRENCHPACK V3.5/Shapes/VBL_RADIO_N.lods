@@ -1,0 +1,11 @@
+model = {
+	lods = {
+		{"VBL_RADIO_N.edm",100.0};
+		{"VBL_RADIO_N_LOD1.edm",300.0};
+		{"VBL_RADIO_N_LOD2.edm",5000.0};
+		{"VBL_RADIO_N_LOD3.edm",20000.0};
+		
+	};
+	
+	collision_shell = "VBL_RADIO_N_Coll.edm";
+}

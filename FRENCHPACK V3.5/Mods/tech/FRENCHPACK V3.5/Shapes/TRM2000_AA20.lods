@@ -1,0 +1,11 @@
+model = {
+	lods = {
+		{"TRM2000_AA20.edm",50.0};
+		{"TRM2000_AA20_LOD1.edm",200.0};
+		{"TRM2000_AA20_LOD2.edm",5000.0};
+		{"TRM2000_LOD3.edm",20000.0};
+		
+	};
+	collision_shell = "TRM2000_AA20_Collision.edm";
+	
+}

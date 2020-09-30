@@ -1,0 +1,10 @@
+model = {
+	lods = {
+		{"SMOKESAM.edm",100.0};	
+		{"SMOKESAM_LOD1.edm",2500.0};	
+		
+	};
+	
+
+	
+}

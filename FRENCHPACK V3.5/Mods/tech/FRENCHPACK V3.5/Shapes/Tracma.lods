@@ -1,0 +1,6 @@
+model = {
+	lods = {
+		{"Tracma.edm",10000.0};
+		{"LD_Tec.edm",20000.0};
+	};
+}
